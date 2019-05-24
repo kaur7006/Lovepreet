@@ -13,6 +13,7 @@ public class Student {
 
     private String email;
     private String address;
+    private String name;
 
     /**
      * Get the value of email
